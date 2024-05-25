@@ -1,6 +1,6 @@
 {
   "pastas": [
-    { "id": 1, "title": "Long pasta", "description": "Pasta lunga", "examples": "Spaghetti, Bavette, Bucatini, Capellini, Fettucine, Linguine, Lasagna, Tagliatelle", "image": 2131165361 },
-    { "id": 2, "title": "Short pasta", "description": "Cavatappi, Chifferi, Cochiglie, Farfalle, Fusilli, Gomiti, Penne, Pipe rigate, Rigatoni", "image": 2131165435 }
+    { "title": "Long pasta", "description": "Pasta lunga", "examples": "Spaghetti, Bavette, Bucatini, Capellini, Fettucine, Linguine, Lasagna, Tagliatelle", "image": 2131165361 },
+    { "title": "Short pasta", "description": "Cavatappi, Chifferi, Cochiglie, Farfalle, Fusilli, Gomiti, Penne, Pipe rigate, Rigatoni", "image": 2131165435 }
   ]
 }
