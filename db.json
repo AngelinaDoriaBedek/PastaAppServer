@@ -5,6 +5,6 @@
     { "name": "Soup pasta", "description": "Pastina", "examples": "Acini di pepe, Corallini, Ditali, Farfalline, Filini, Grattini, Pastina, Stelle", "image": 2131165436 },
     { "name": "Stretched pasta", "description": "Strascinati", "examples": "Cencioni, Corzetti, Orecchiette", "image": 2131165437 },
     { "name": "Stuffed pasta", "description": "Pasta ipiena",  "examples": "Cannelloni, Ravioli, Pansotti, Tortelli, Tortellini, Tortelloni",  "image": 2131165438 },
-    { "name": "Gnocchi", "description": Gnocchi, "examples": "Canederli, Gnocchi", "image": 2131165338 } 
+    { "name": "Gnocchi", "description": "Gnocchi", "examples": "Canederli, Gnocchi", "image": 2131165338 } 
   ]
 }
