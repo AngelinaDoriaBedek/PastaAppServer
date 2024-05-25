@@ -1,6 +1,10 @@
 {
   "pastas": [
     { "name": "Long pasta", "description": "Pasta lunga", "examples": "Spaghetti, Bavette, Bucatini, Capellini, Fettucine, Linguine, Lasagna, Tagliatelle", "image": 2131165361 },
-    { "name": "Short pasta", "description": "Pasta corta", "examples": "Cavatappi, Chifferi, Cochiglie, Farfalle, Fusilli, Gomiti, Penne, Pipe rigate, Rigatoni", "image": 2131165435 }
+    { "name": "Short pasta", "description": "Pasta corta", "examples": "Cavatappi, Chifferi, Cochiglie, Farfalle, Fusilli, Gomiti, Penne, Pipe rigate, Rigatoni", "image": 2131165435 },
+    { "name": "Soup pasta", "description": "Pastina", "examples": "Acini di pepe, Corallini, Ditali, Farfalline, Filini, Grattini, Pastina, Stelle", "image": 2131165436 },
+    { "name": "Stretched pasta", "description": "Strascinati", "examples": "Cencioni, Corzetti, Orecchiette", "image": 2131165437 },
+    { "name": "Stuffed pasta", "description": "Pasta ipiena",  "examples": "Cannelloni, Ravioli, Pansotti, Tortelli, Tortellini, Tortelloni",  "image": 2131165438 },
+    { "name": "Gnocchi", "description": Gnocchi, "examples": "Canederli, Gnocchi", "image": 2131165338 } 
   ]
 }
